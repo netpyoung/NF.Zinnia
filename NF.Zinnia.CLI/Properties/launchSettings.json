@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NF.Zinnia.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "-t C:/Users/netpyoung/Desktop/NF.Zinnia/test-train.txt -m test.model"
+    }
+  }
+}
